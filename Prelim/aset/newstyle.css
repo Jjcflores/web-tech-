@@ -1,0 +1,63 @@
+h2{
+    color: red;
+    font-family:'Arial Narrow';
+    font-style: italic;
+}par{
+    color: red;
+}
+nav{
+    color:darkred;
+}
+body{
+    background-color: white;
+}
+table{
+    width:900px;
+    margin:left auto;
+    table-layout:fixed;
+    text-align:left;
+    margin-top: 80px;
+    font-family: Arial;
+    color:black;
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse:collapse;
+    padding:20px;
+    color:rgb(44,84,97);
+}
+
+.cr{
+    color:red;
+}
+.cbl{
+    color:blue;
+}
+.cg{
+    color:green;
+}
+.co{
+    color:orange;
+}
+.cy{
+    color:yellow;
+}
+.cp{
+    color:pink;
+}
+.cb{
+    color:brown;
+}
+.clb{
+    color:lightblue;
+}
+.cdr{
+    color:darkred;
+}
+.cb{
+    color:black;
+}
+.ft{
+    text-align: center;
+}
+
